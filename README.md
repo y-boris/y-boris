@@ -2,7 +2,7 @@
 
 I'm a Front-end developer from Rostov-on-Don.
 
-Check my website: [yrmlnk.com](https://github.com/ya-boris/)
+Check my website: [yrmlnk.com](https://github.com/ya-boris/) and [codepen](https://codepen.io/boris-yarmulnik).
 
 **Languages and Technologies**
 
