@@ -2,7 +2,7 @@
 
 I work on JavaScript stuff mostly related to frontend.
 
-Check my website: [yrmlnk.com](https://github.com/ya-boris/) and [codepen](https://codepen.io/boris-yarmulnik).
+Check my website: [yrmlnk.com](http://yrmlnk.com/) and [codepen](https://codepen.io/boris-yarmulnik).
 
 **Languages and Technologies**
 
