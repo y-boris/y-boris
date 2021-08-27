@@ -18,5 +18,5 @@
 
 [![Website](/assets/globe.svg)](http://yrmlnk.com)
 [![Telegram](/assets/telegram.svg)](http://t.me/ya_boris)
-[![Twitter](/assets/twitter.svg)](https://twitter.com/yrmlnk_)
 [![Codepen](/assets/codepen.svg)](https://codepen.io/ya-boris)
+[![Twitter](/assets/twitter.svg)](https://twitter.com/yrmlnk_)
