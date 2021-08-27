@@ -1,6 +1,6 @@
 # Hi there 👋🖖
 
-![Picard waving](https://media.giphy.com/media/yvxm1UoHaG8ko/giphy.gif)
+![Picard waving](/assets/giphy.gif)
 
 <!-- I work on JavaScript stuff mostly related to frontend. -->
 
@@ -20,7 +20,7 @@ Check my website: [yrmlnk.com](http://yrmlnk.com/).
 
 🌐 Telegram: @ya_boris
 
-[![Website](https://ya-boris.github.io/ya-boris/assets/globe.svg)](http://yrmlnk.com)
-[![Telegram](https://ya-boris.github.io/ya-boris/assets/telegram.svg)](http://t.me/ya_boris)
-[![Twitter](https://ya-boris.github.io/ya-boris/assets/twitter.svg)](https://twitter.com/yrmlnk_)
-[![Codepen](https://ya-boris.github.io/ya-boris/assets/codepen.svg)](https://codepen.io/ya-boris)
+[![Website](/assets/globe.svg)](http://yrmlnk.com)
+[![Telegram](/assets/telegram.svg)](http://t.me/ya_boris)
+[![Twitter](/assets/twitter.svg)](https://twitter.com/yrmlnk_)
+[![Codepen](/assets/codepen.svg)](https://codepen.io/ya-boris)
