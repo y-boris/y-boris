@@ -2,9 +2,9 @@
 
 ![Picard waving](/assets/giphy.gif)
 
-<!-- I work on JavaScript stuff mostly related to frontend. -->
+I work on JavaScript stuff mostly related to frontend.
 
-### Languages and Technologies
+### Languages and technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
