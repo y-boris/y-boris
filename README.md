@@ -2,7 +2,7 @@
 
 ![Picard waving](https://media.giphy.com/media/yvxm1UoHaG8ko/giphy.gif)
 
-I work on JavaScript stuff mostly related to frontend.
+<!-- I work on JavaScript stuff mostly related to frontend. -->
 
 ### Languages and Technologies
 
