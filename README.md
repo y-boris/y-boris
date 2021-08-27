@@ -1,10 +1,10 @@
-## Hi there 👋🖖
+# Hi there 👋🖖
 
 ![Picard waving](https://media.giphy.com/media/yvxm1UoHaG8ko/giphy.gif)
 
 I work on JavaScript stuff mostly related to frontend.
 
-**Languages and Technologies**
+### Languages and Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
