@@ -20,7 +20,7 @@ Check my website: [yrmlnk.com](http://yrmlnk.com/).
 
 🌐 Telegram: @ya_boris
 
-[![Website](https://ya-boris.github.io/ya-boris/assets/icons/globe.svg)](http://yrmlnk.com)
-[![Telegram](https://ya-boris.github.io/ya-boris/assets/icons/telegram.svg)](http://t.me/ya_boris)
-[![Twitter](https://ya-boris.github.io/ya-boris/assets/icons/twitter.svg)](https://twitter.com/yrmlnk_)
-[![Codepen](https://ya-boris.github.io/ya-boris/assets/icons/codepen.svg)](https://codepen.io/ya-boris)
+[![Website](https://ya-boris.github.io/ya-boris/assets/globe.svg)](http://yrmlnk.com)
+[![Telegram](https://ya-boris.github.io/ya-boris/assets/telegram.svg)](http://t.me/ya_boris)
+[![Twitter](https://ya-boris.github.io/ya-boris/assets/twitter.svg)](https://twitter.com/yrmlnk_)
+[![Codepen](https://ya-boris.github.io/ya-boris/assets/codepen.svg)](https://codepen.io/ya-boris)
