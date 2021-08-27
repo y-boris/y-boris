@@ -16,8 +16,6 @@
 
 ### Where to find me
 
-Check my website: [yrmlnk.com](http://yrmlnk.com/).
-
 🌐 Telegram: @ya_boris
 
 [![Website](/assets/globe.svg)](http://yrmlnk.com)
