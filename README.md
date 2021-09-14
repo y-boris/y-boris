@@ -17,6 +17,7 @@ I work on JavaScript stuff mostly related to frontend.
 ### Where to find me
 
 [![Website](/assets/globe.svg)](http://yrmlnk.com)
+&nbsp;
 [![Telegram](/assets/telegram.svg)](http://t.me/ya_boris)
+&nbsp;
 [![Codepen](/assets/codepen.svg)](https://codepen.io/ya-boris)
-[![Twitter](/assets/twitter.svg)](https://twitter.com/yrmlnk_)
