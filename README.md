@@ -14,6 +14,8 @@ I work on JavaScript stuff mostly related to frontend.
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 
+![My Codewarrior Profile Badge](https://www.codewars.com/users/ya-boris/badges/small)
+
 ### Where to find me
 
 [![Website](/assets/globe.svg)](http://yrmlnk.com)
