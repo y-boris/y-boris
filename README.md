@@ -2,7 +2,7 @@
 
 ![Picard waving](/assets/giphy.gif)
 
-My name is Boris. I am a passionate full stack web developer who enjoys immense guilt-pleasure for writing vanilla js.
+My name is Boris. I am a passionate front end web developer who enjoys for writing vanilla js.
 
 * 🌍  I'm based in Tel Aviv
 * 🖥️  See my portfolio at [My Personal Website](http://yrmlnik.com)
