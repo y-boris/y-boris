@@ -23,4 +23,4 @@ My name is Boris. I am a passionate front end web developer who enjoys for writi
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/yaboris"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/ya.boris"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
