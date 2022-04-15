@@ -5,7 +5,7 @@
 My name is Boris. I am a passionate front end web developer who enjoys for writing vanilla js.
 
 * 🌍  I'm based in Tel Aviv
-* 🖥️  See my portfolio at [My Personal Website](http://yrmlnik.com)
+* 🖥️  See my portfolio at [My Personal Website](http://yrmlnk.com)
 * ✉️  You can contact me at [boris.yarmoulnik@gmail.com](mailto:boris.yarmoulnik@gmail.com)
 * 🧠  I'm learning TypeScript, React Native, WEB3
 
