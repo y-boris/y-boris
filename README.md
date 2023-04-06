@@ -6,8 +6,8 @@ My name is Boris. I am a passionate front end web developer who enjoys for writi
 
 * 🌍  I'm based in Israel
 * 🖥️  See my portfolio at [my github repositories](https://github.com/ya-boris?tab=repositories)
-* ✉️  You can contact me at [boris@yrmlnk.com](mailto:boris@yrmlnk.com) or [linkedin](https://www.linkedin.com/in/ya-boris)
-* 🧠  I'm learning TypeScript, React Native, WEB3
+* ✉️  You can contact me at [linkedin](https://www.linkedin.com/in/ya-boris)
+* 🧠  I'm learning TypeScript and Node.js
 
 ### Skills
 
