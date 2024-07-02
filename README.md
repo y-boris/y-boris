@@ -1,4 +1,4 @@
-# Hi 👋🖖
+# Hi 👋
 
 ![Picard waving](/assets/giphy.gif)
 
