@@ -3,7 +3,7 @@
 ![Picard waving](/assets/giphy.gif)
 
 * 🇮🇱  I'm based in Tel Aviv, Israel
-* ✉️  You can contact me at [telegram](https://t.me/y_brs) or [linkedin](https://www.linkedin.com/in/iamboris)
+* ✉️  You can contact me at [telegram](https://t.me/y_boris) or [linkedin](https://www.linkedin.com/in/iamboris)
 
 ### Skills
 
