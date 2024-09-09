@@ -17,8 +17,4 @@
 
 ### My GitHub Stats
 
-<img src="https://raw.githubusercontent.com/y-brs/y-brs/output/snake.svg" alt="Snake animation" />
-
-###
-
 <a href="http://www.github.com/y-brs"><img src="https://github-readme-stats.vercel.app/api?username=y-brs&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=64748b&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="@y-brs's GitHub stats" /></a>
